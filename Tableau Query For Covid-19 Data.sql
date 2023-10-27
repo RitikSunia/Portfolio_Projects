@@ -1,8 +1,8 @@
-/*
 
-Queries used for Tableau Project
 
-*/
+# Queries Used for Tableau Project
+# Tableau Public Link --https://public.tableau.com/app/profile/ritik.sunia/viz/Covid-19Dashboard_16952927691890/Dashboard1
+
 
 
 
